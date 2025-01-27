@@ -1,7 +1,7 @@
 # Musikdiskette - Hör doch mal eine Diskette!
 ![Musikdiskette](https://schmalenstroer.net/blog/wp-content/uploads/2024/10/musikdiskette-1024x275.png)
 
-[![Watch the video](https://www.schmalenstroer.net/musikdiskette.png)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=GC8M22ON5ec&embeds_referring_euri=https%3A%2F%2Fschmalenstroer.net%2F))
+[![Watch the video](https://www.schmalenstroer.net/musikdiskette.png)](https://www.youtube.com/watch?v=GC8M22ON5ec)
 
 ![Musikdiskette](https://schmalenstroer.net/blog/wp-content/uploads/2024/10/PXL_20241010_183401014-989x1024.jpg)
 
